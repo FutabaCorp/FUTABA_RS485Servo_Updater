@@ -7,7 +7,7 @@ This application allows you to update the firmware of RS485 compatible servos (B
 When using the application, download and run this repository.  
 Please refer to the following manual for how to use the application and the firmware update procedure.  
 <br>
-[RS485サーボ_アップデートマニュアル.pdf]()
+[RS485サーボ_アップデートマニュアル.pdf](https://github.com/FutabaCorp/FUTABA_RS485Servo_Updater/blob/main/RS485%E3%82%B5%E3%83%BC%E3%83%9C_%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB.pdf)
 <br><br>
 
 アップデートに使用するbinファイルは以下のフォルダに保存されています。  
