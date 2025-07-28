@@ -1,10 +1,8 @@
 # FUTABA_RS485Servo_Updater
 
 <br> ***############################################################################################################***
-<br>***2025年6月30日現在、RS485対応サーボ（BLA21-12R3-C01）のファームウェアに不具合が見つかったため、公開を停止しています。***
-<br>***不具合の修正、再公開は2025年中旬-下旬を予定しております。***
-<br>***Due to a bug found in the firmware of the RS485-compatible servo (BA21-12R3-C01), it is currently unavailable for download.***
-<br>***The bug fix and re-release are scheduled for mid to late July 2025.***
+<br>***2025年7月28日、RS485対応サーボ（BLA21-12R3-C01）のファームウェアに不具合を修正し、再公開しました。***
+<br>***On July 28, 2025, we fixed a bug in the firmware for the RS485 compatible servo (BLA21-12R3-C01) and re-released it.***
 <br> ***############################################################################################################***
 
 本アプリケーションでは、RS485対応サーボ（BLA21-12R3-C01）のファームウェアアップデートを行うことが可能です。   
@@ -31,13 +29,15 @@ Please use the bin file in the folder containing the name of the model to be upd
 | Ver | 機種(期間) | 変更内容 |
 | :---: | :--- | :--- |
 | 101 | ・BLA21-12R3-C01 (2024/11\~2025/2) | ・新規ファームウェア |
-| 103 | ・BLA21-12R3-C01 (2025/3\~) | ・UVLO機能が動作しない不具合を修正<br>・動作改善 |
+| 103 | ・BLA21-12R3-C01 (2025/3\~2025/7/28) | ・UVLO機能が動作しない不具合を修正<br>・動作改善 |
+| 107 | ・BLA21-12R3-C01 (2025/7/28\~) | ・不具合の修正 |
 
 ### サーボファームウェアバージョン管理表（CM.BUS）
 
 | Ver | 機種(期間) | 変更内容 |
 | :---: | :--- | :--- |
-| 2.00.0 | ・BLA21-12R3-C01 (2025/4\~) | ・新規ファームウェア |
+| 2.00.0 | ・BLA21-12R3-C01 (2025/4\~2025/7/28) | ・新規ファームウェア |
+| 2.01.0 | ・BLA21-12R3-C01 (2025/7/28\~) | ・不具合の修正 |
 
 ### アプリケーションバージョン管理表
 
@@ -52,13 +52,15 @@ Please use the bin file in the folder containing the name of the model to be upd
 | Ver | Model (Period) | Changes |
 | :---: | :--- | :--- |
 | 101 | ・BLA21-12R3-C01 (11/2024\~2/2025) | ・New Firmware. |
-| 103 | ・BLA21-12R3-C01 (3/2025\~) | ・Fixed a bug that caused the UVLO function to not work.<br>・Improved operation. |
+| 103 | ・BLA21-12R3-C01 (3/2025\~7/28/2025) | ・Fixed a bug that caused the UVLO function to not work.<br>・Improved operation. |
+| 107 | ・BLA21-12R3-C01 (7/28/2025\~) | ・Fixed a bug |
 
 ### Servo firmware version management table (CM.BUS)
 
 | Ver | Model (Period) | Changes |
 | :---: | :--- | :--- |
-| 2.00.0 | ・BLA21-12R3-C01 (4/2025\~) | ・New Firmware. |
+| 2.00.0 | ・BLA21-12R3-C01 (4/2025\~7/28/2025) | ・New Firmware. |
+| 2.01.0 | ・BLA21-12R3-C01 (7/28/2025\~) | ・Fixed a bug |
 
 ### Application version management table
 
