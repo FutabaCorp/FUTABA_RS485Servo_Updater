@@ -1,11 +1,11 @@
 # FUTABA_RS485Servo_Updater
 
-<br> ***##################################################################################################***
-<br>***2025年7月28日、RS485対応サーボ（BLA21-12R3-C01）のファームウェアに不具合を修正し、再公開しました。***
-<br>***お手数ですが、お手持ちのサーボのソフトを最新のものに更新して頂くようお願いします。***
-<br>***On July 28, 2025, we fixed a bug in the firmware for the RS485 compatible servo (BLA21-12R3-C01) and re-released it.***
-<br>***We apologize for the inconvenience, but please update your servo software to the latest version.***
-<br> ***##################################################################################################***
+<br> ***###########################################################################################***
+<br>***2025年8月6日、RS485対応サーボ（BLA21-12R3-C01）のファームウェア(CM.BUS)に不具合が確認されたため、ファームウェア(CM.BUS)の公開を再度停止いたします。***
+<br>***現在、状況確認及び修正対応中です。近日中に完了、再公開時期を記載します。***
+<br>**On August 6th, 2025, a problem was confirmed in the firmware (CM.BUS) of the RS485-compatible servo (BLA21-12R3-C01), so we will stop publishing the firmware (CM.BUS) again.***
+<br>***Currently, we are checking and correcting the situation. We will list the date when it will be completed and republished soon.***
+<br> ***###########################################################################################***
 
 本アプリケーションでは、RS485対応サーボ（BLA21-12R3-C01）のファームウェアアップデートを行うことが可能です。   
 アプリケーションを使用する際は、このリポジトリをダウンロードして実行してください。  
