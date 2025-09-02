@@ -2,9 +2,9 @@
 
 <br> ***###########################################################################################***
 <br>***2025年8月6日、RS485対応サーボ（BLA21-12R3-C01）のファームウェア(CM.BUS)に不具合が確認されたため、ファームウェア(CM.BUS)の公開を再度停止いたします。***
-<br>***現在、状況確認及び修正対応中です。近日中に完了、再公開時期を記載します。***
+<br>***現在、修正対応中です。2025年9月上旬に再公開を予定しています。***
 <br>**On August 6th, 2025, a problem was confirmed in the firmware (CM.BUS) of the RS485-compatible servo (BLA21-12R3-C01), so we will stop publishing the firmware (CM.BUS) again.***
-<br>***Currently, we are checking and correcting the situation. We will list the date when it will be completed and republished soon.***
+<br>***We are currently working on correcting this issue and plan to re-release the site in early September 2025.***
 <br> ***###########################################################################################***
 
 本アプリケーションでは、RS485対応サーボ（BLA21-12R3-C01）のファームウェアアップデートを行うことが可能です。   
