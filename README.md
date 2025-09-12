@@ -1,10 +1,8 @@
 # FUTABA_RS485Servo_Updater
 
 <br> ***###########################################################################################***
-<br>***2025年8月6日、RS485対応サーボ（BLA21-12R3-C01）のファームウェア(CM.BUS)に不具合が確認されたため、ファームウェア(CM.BUS)の公開を再度停止いたします。***
-<br>***現在、修正対応中です。2025年9月上旬に再公開を予定しています。***
-<br>**On August 6th, 2025, a problem was confirmed in the firmware (CM.BUS) of the RS485-compatible servo (BLA21-12R3-C01), so we will stop publishing the firmware (CM.BUS) again.***
-<br>***We are currently working on correcting this issue and plan to re-release the site in early September 2025.***
+<br>***2025年9月12日、RS485対応サーボ（BLA21-12R3-C01）のファームウェア(CM.BUS)に不具合を修正し、更新版のファームウェア(CM.BUS)を再公開いたしました。***
+<br>***On September 12, 2025, we fixed a bug in the firmware (CM.BUS) for the RS485 compatible servo (BLA21-12R3-C01) and re-released the updated firmware (CM.BUS).***
 <br> ***###########################################################################################***
 
 本アプリケーションでは、RS485対応サーボ（BLA21-12R3-C01）のファームウェアアップデートを行うことが可能です。   
@@ -39,7 +37,8 @@ Please use the bin file in the folder containing the name of the model to be upd
 | Ver | 機種(期間) | 変更内容 |
 | :---: | :--- | :--- |
 | 2.00.0 | ・BLA21-12R3-C01 (2025/4\~2025/7/28) | ・新規ファームウェア |
-| 2.01.0 | ・BLA21-12R3-C01 (2025/7/28\~) | ・不具合の修正 |
+| 2.01.0 | ・BLA21-12R3-C01 (2025/7/28\~2025/8/6) | ・不具合の修正 |
+| 2.03.0 | ・BLA21-12R3-C01 (2025/9/12\~) | ・不具合の修正 |
 
 ### アプリケーションバージョン管理表
 
@@ -62,7 +61,8 @@ Please use the bin file in the folder containing the name of the model to be upd
 | Ver | Model (Period) | Changes |
 | :---: | :--- | :--- |
 | 2.00.0 | ・BLA21-12R3-C01 (4/2025\~7/28/2025) | ・New Firmware. |
-| 2.01.0 | ・BLA21-12R3-C01 (7/28/2025\~) | ・Fixed a bug |
+| 2.01.0 | ・BLA21-12R3-C01 (7/28/2025\~8/6/2025) | ・Fixed a bug |
+| 2.03.0 | ・BLA21-12R3-C01 (9/12/2025\~) | ・Fixed a bug |
 
 ### Application version management table
 
