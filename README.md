@@ -1,8 +1,8 @@
 # FUTABA_RS485Servo_Updater
 
 <br> ***###########################################################################################***
-<br>***2025年12月3日、RS485対応サーボ（BLA21-12R3-C01）のファームウェア(CM.BUS)に不具合を修正し、更新版のファームウェア(CM.BUS)を再公開いたしました。***
-<br>***On December 3, 2025, we fixed a bug in the firmware (CM.BUS) for the RS485 compatible servo (BLA21-12R3-C01) and re-released the updated firmware (CM.BUS).***
+<br>***2026年11月17日、RS485対応サーボ（BLA21-12R3-C01）に加減速制御の機能を追加した更新版ファームウェアを公開しました。***
+<br>***On November 17, 2026, we released an updated firmware for the RS485-compatible servo (BLA21-12R3-C01) that adds acceleration/deceleration control functionality.***
 <br> ***###########################################################################################***
 
 本アプリケーションでは、RS485対応サーボ（BLA21-12R3-C01）のファームウェアアップデートを行うことが可能です。   
@@ -39,7 +39,8 @@ Please use the bin file in the folder containing the name of the model to be upd
 | 2.00.0 | ・BLA21-12R3-C01 (2025/4\~2025/7/28) | ・新規ファームウェア |
 | 2.01.0 | ・BLA21-12R3-C01 (2025/7/28\~2025/8/6) | ・不具合の修正 |
 | 2.03.0 | ・BLA21-12R3-C01 (2025/9/12\~2025/12/3) | ・不具合の修正 |
-| 2.05.0 | ・BLA21-12R3-C01 (2025/12/3\~) | ・不具合の修正 |
+| 2.05.0 | ・BLA21-12R3-C01 (2025/12/3\~2026/11/17) | ・不具合の修正 |
+| 2.20.0 | ・BLA21-12R3-C01 (2026/11/17\~) | ・加減速制御の機能の追加 |
 
 ### アプリケーションバージョン管理表
 
@@ -64,7 +65,8 @@ Please use the bin file in the folder containing the name of the model to be upd
 | 2.00.0 | ・BLA21-12R3-C01 (4/2025\~7/28/2025) | ・New Firmware. |
 | 2.01.0 | ・BLA21-12R3-C01 (7/28/2025\~8/6/2025) | ・Fixed a bug |
 | 2.03.0 | ・BLA21-12R3-C01 (9/12/2025\~12/3/2025) | ・Fixed a bug |
-| 2.05.0 | ・BLA21-12R3-C01 (12/3/2025\~) | ・Fixed a bug |
+| 2.05.0 | ・BLA21-12R3-C01 (12/3/2025\~11/17/2026) | ・Fixed a bug |
+| 2.20.0 | ・BLA21-12R3-C01 (11/17/2026\~) | ・Added acceleration/deceleration control functionality|
 
 ### Application version management table
 
